@@ -1,0 +1,14 @@
+-------------------
+TOTAL VENTAS POR CATEGORÍA
+-------------------
+dairy	14518.40
+vegetable	23478.12
+fruit	116665.75
+bakery	8860.52
+meat	1712.58
+-------------------
+TOTAL DE VENTAS
+-------------------
+165235.37
+
+Tiempo transcurrido: 0.0018 segundos
